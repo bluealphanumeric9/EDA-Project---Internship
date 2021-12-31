@@ -1,0 +1,24 @@
+The EDA File contains variables and feature about usag of the two companies acorss the main USA cities. I have investigated the following questions:
+
+1. Compare across cities the usage of the two cabs 
+2. Compare the averages, minimum and maximums or range across the cities of price charged 
+3. Correlation coefficients between variables - find correlation coefficients but first identify what trends
+		you would like to test? 
+4. Which city has the least kilometers travelled, which city the most across two companies
+5. How are Price and Cost of trip related and what does this tell us?
+6.Is there any correlation between card payment and cash payment? Which method of payment is preferred?
+7. Are there any preferences of the yellow over pink?
+8. How are Pink and Yellow distributed over cities? How is this distribution reflected in terms of payment? 
+9. Which kilometer average is greater? In which cities? Order by cities using appropriate diagram.
+10. Is there a difference in price charged between pink and yellow? Are there any cases where pink is better?
+11. If we disregard New York, Chicago and LA - are there significant differences? Analyze These Three Cities Separately
+12. Perform the analysis separately on those three cities and the rest and explain why is it meaningful to do so.
+13. Cab Taxi usage with regard to date - can we give some insights there? How can we extract that information?
+
+There are some interesting findings suported by the data which are rather counterintuitive. For example, it doesn't necessarily mean that the higher 
+rides rate produces more revenues. The revenue itself is dependent on the cities. 
+Furthermore, there might be more rides in one company, but this again doesn't mean that the kilometers driven reflect the true revenues achieved.
+Also, another insight I have made is comparing the average differences across the cities and this also has some surprsingly unexpected results - the differences on average,
+except in few major cities like New York or Boston MA are not that significant as one would expect. 
+
+Main Analysis I have done using SQL queries and, mostly, Google Sheets. 
